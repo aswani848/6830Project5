@@ -2,9 +2,9 @@ SPAM Classification
 
 Datasets:
 
-SMS Dataset:
+SMS Dataset: https://www.kaggle.com/datasets/team-ai/spam-text-message-classification
 
-Email Dataset:
+Email Dataset:  https://www.kaggle.com/datasets/karthickveerakumar/spam-filter
 
 Report: https://docs.google.com/document/d/1P3DiB-LFyKEIMoA2drz2kpUtks9-Fa-OxJnuK5rEldY/edit
 
